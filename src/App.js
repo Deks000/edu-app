@@ -10,7 +10,7 @@ function App() {
   if (fruit = bag.apple) {
     alert( bag.apple )
   } else {
-    alert( 'Дурак?' )
+    alert( 'Дурак?' )//sam takoi
   }
 }
 
